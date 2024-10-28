@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+legend{
+    font-size: 25px;
+    color: rgb(29, 29, 171);
+}
+form{
+    margin: 30px;
+}
+.form1{
+    text-align: center;
+}
+input{
+    margin: 10px;
+}
+select{
+    margin-bottom: 10px;
+}
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: palevioletred;
+    color:white;
+    text-align: center;
+    border: none;
+    font-size: 20px;
+}
